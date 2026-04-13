@@ -1,0 +1,177 @@
+year,rto_name,metric,total_count
+2021,"MUMBAI (CENTRAL)","Permit Category",5083
+2021,"MUMBAI (CENTRAL)","Permit Purpose",6397
+2021,"MUMBAI (CENTRAL)","Permit Type",6397
+2021,"MUMBAI (CENTRAL)","Registration Category",53007
+2021,"MUMBAI (CENTRAL)","Registration Class",53007
+2021,"MUMBAI (CENTRAL)","Registration Fuel",53007
+2021,"MUMBAI (CENTRAL)","Registration Manufacturer",53007
+2021,"MUMBAI (CENTRAL)","Registration Standard",53007
+2021,"MUMBAI (CENTRAL)","Revenue (Fee)",1505127
+2021,"MUMBAI (CENTRAL)","Revenue (Tax)",4648391
+2021,"MUMBAI (CENTRAL)",Transaction,238827
+2021,"MUMBAI (EAST)","Permit Category",6149
+2021,"MUMBAI (EAST)","Permit Purpose",6158
+2021,"MUMBAI (EAST)","Permit Type",6158
+2021,"MUMBAI (EAST)","Registration Category",52276
+2021,"MUMBAI (EAST)","Registration Class",52276
+2021,"MUMBAI (EAST)","Registration Fuel",52276
+2021,"MUMBAI (EAST)","Registration Manufacturer",52276
+2021,"MUMBAI (EAST)","Registration Standard",52276
+2021,"MUMBAI (EAST)","Revenue (Fee)",16769951
+2021,"MUMBAI (EAST)","Revenue (Tax)",783789
+2021,"MUMBAI (EAST)",Transaction,281028
+2021,"MUMBAI (WEST)","Permit Category",3350
+2021,"MUMBAI (WEST)","Permit Purpose",3426
+2021,"MUMBAI (WEST)","Permit Type",3426
+2021,"MUMBAI (WEST)","Registration Category",40348
+2021,"MUMBAI (WEST)","Registration Class",40348
+2021,"MUMBAI (WEST)","Registration Fuel",40348
+2021,"MUMBAI (WEST)","Registration Manufacturer",40348
+2021,"MUMBAI (WEST)","Registration Standard",40348
+2021,"MUMBAI (WEST)","Revenue (Fee)",18804223
+2021,"MUMBAI (WEST)","Revenue (Tax)",6700437
+2021,"MUMBAI (WEST)",Transaction,215937
+2021,R.T.O.BORIVALI,"Permit Category",4565
+2021,R.T.O.BORIVALI,"Permit Purpose",6146
+2021,R.T.O.BORIVALI,"Permit Type",6146
+2021,R.T.O.BORIVALI,"Registration Category",51431
+2021,R.T.O.BORIVALI,"Registration Class",51431
+2021,R.T.O.BORIVALI,"Registration Fuel",51431
+2021,R.T.O.BORIVALI,"Registration Manufacturer",51431
+2021,R.T.O.BORIVALI,"Registration Standard",51431
+2021,R.T.O.BORIVALI,"Revenue (Fee)",25633446
+2021,R.T.O.BORIVALI,"Revenue (Tax)",9793991
+2021,R.T.O.BORIVALI,Transaction,216008
+2022,"MUMBAI (CENTRAL)","Permit Category",13339
+2022,"MUMBAI (CENTRAL)","Permit Purpose",13340
+2022,"MUMBAI (CENTRAL)","Permit Type",13340
+2022,"MUMBAI (CENTRAL)","Registration Category",65489
+2022,"MUMBAI (CENTRAL)","Registration Class",65489
+2022,"MUMBAI (CENTRAL)","Registration Fuel",65489
+2022,"MUMBAI (CENTRAL)","Registration Manufacturer",65489
+2022,"MUMBAI (CENTRAL)","Registration Standard",65489
+2022,"MUMBAI (CENTRAL)","Revenue (Fee)",3251049
+2022,"MUMBAI (CENTRAL)","Revenue (Tax)",6706526
+2022,"MUMBAI (CENTRAL)",Transaction,255010
+2022,"MUMBAI (EAST)","Permit Category",11646
+2022,"MUMBAI (EAST)","Permit Purpose",11646
+2022,"MUMBAI (EAST)","Permit Type",11646
+2022,"MUMBAI (EAST)","Registration Category",63918
+2022,"MUMBAI (EAST)","Registration Class",63918
+2022,"MUMBAI (EAST)","Registration Fuel",63918
+2022,"MUMBAI (EAST)","Registration Manufacturer",63918
+2022,"MUMBAI (EAST)","Registration Standard",63918
+2022,"MUMBAI (EAST)","Revenue (Fee)",19487390
+2022,"MUMBAI (EAST)","Revenue (Tax)",879088
+2022,"MUMBAI (EAST)",Transaction,296777
+2022,"MUMBAI (WEST)","Permit Category",7381
+2022,"MUMBAI (WEST)","Permit Purpose",7381
+2022,"MUMBAI (WEST)","Permit Type",7381
+2022,"MUMBAI (WEST)","Registration Category",51084
+2022,"MUMBAI (WEST)","Registration Class",51084
+2022,"MUMBAI (WEST)","Registration Fuel",51084
+2022,"MUMBAI (WEST)","Registration Manufacturer",51084
+2022,"MUMBAI (WEST)","Registration Standard",51084
+2022,"MUMBAI (WEST)","Revenue (Fee)",5615967
+2022,"MUMBAI (WEST)","Revenue (Tax)",1800177
+2022,"MUMBAI (WEST)",Transaction,230923
+2022,R.T.O.BORIVALI,"Permit Category",10545
+2022,R.T.O.BORIVALI,"Permit Purpose",10545
+2022,R.T.O.BORIVALI,"Permit Type",10545
+2022,R.T.O.BORIVALI,"Registration Category",61844
+2022,R.T.O.BORIVALI,"Registration Class",61844
+2022,R.T.O.BORIVALI,"Registration Fuel",61844
+2022,R.T.O.BORIVALI,"Registration Manufacturer",61844
+2022,R.T.O.BORIVALI,"Registration Standard",61844
+2022,R.T.O.BORIVALI,"Revenue (Fee)",22525155
+2022,R.T.O.BORIVALI,"Revenue (Tax)",6273269
+2022,R.T.O.BORIVALI,Transaction,232392
+2023,"MUMBAI (CENTRAL)","Permit Category",15762
+2023,"MUMBAI (CENTRAL)","Permit Purpose",15763
+2023,"MUMBAI (CENTRAL)","Permit Type",15763
+2023,"MUMBAI (CENTRAL)","Registration Category",67293
+2023,"MUMBAI (CENTRAL)","Registration Class",67293
+2023,"MUMBAI (CENTRAL)","Registration Fuel",67293
+2023,"MUMBAI (CENTRAL)","Registration Manufacturer",67293
+2023,"MUMBAI (CENTRAL)","Registration Standard",67293
+2023,"MUMBAI (CENTRAL)","Revenue (Fee)",5852424
+2023,"MUMBAI (CENTRAL)","Revenue (Tax)",10660393
+2023,"MUMBAI (CENTRAL)",Transaction,277456
+2023,"MUMBAI (EAST)","Permit Category",15614
+2023,"MUMBAI (EAST)","Permit Purpose",15614
+2023,"MUMBAI (EAST)","Permit Type",15614
+2023,"MUMBAI (EAST)","Registration Category",66720
+2023,"MUMBAI (EAST)","Registration Class",66720
+2023,"MUMBAI (EAST)","Registration Fuel",66720
+2023,"MUMBAI (EAST)","Registration Manufacturer",66720
+2023,"MUMBAI (EAST)","Registration Standard",66720
+2023,"MUMBAI (EAST)","Revenue (Fee)",22836198
+2023,"MUMBAI (EAST)","Revenue (Tax)",1156577
+2023,"MUMBAI (EAST)",Transaction,309650
+2023,"MUMBAI (WEST)","Permit Category",11763
+2023,"MUMBAI (WEST)","Permit Purpose",11763
+2023,"MUMBAI (WEST)","Permit Type",11763
+2023,"MUMBAI (WEST)","Registration Category",55933
+2023,"MUMBAI (WEST)","Registration Class",55933
+2023,"MUMBAI (WEST)","Registration Fuel",55933
+2023,"MUMBAI (WEST)","Registration Manufacturer",55933
+2023,"MUMBAI (WEST)","Registration Standard",55933
+2023,"MUMBAI (WEST)","Revenue (Fee)",6045234
+2023,"MUMBAI (WEST)","Revenue (Tax)",864172
+2023,"MUMBAI (WEST)",Transaction,263228
+2023,R.T.O.BORIVALI,"Permit Category",16860
+2023,R.T.O.BORIVALI,"Permit Purpose",16860
+2023,R.T.O.BORIVALI,"Permit Type",16860
+2023,R.T.O.BORIVALI,"Registration Category",64806
+2023,R.T.O.BORIVALI,"Registration Class",64806
+2023,R.T.O.BORIVALI,"Registration Fuel",64806
+2023,R.T.O.BORIVALI,"Registration Manufacturer",64806
+2023,R.T.O.BORIVALI,"Registration Standard",64806
+2023,R.T.O.BORIVALI,"Revenue (Fee)",29233338
+2023,R.T.O.BORIVALI,"Revenue (Tax)",2791609
+2023,R.T.O.BORIVALI,Transaction,267203
+2024,"MUMBAI (CENTRAL)","Permit Category",17558
+2024,"MUMBAI (CENTRAL)","Permit Purpose",17558
+2024,"MUMBAI (CENTRAL)","Permit Type",17558
+2024,"MUMBAI (CENTRAL)","Registration Category",71817
+2024,"MUMBAI (CENTRAL)","Registration Class",71817
+2024,"MUMBAI (CENTRAL)","Registration Fuel",71817
+2024,"MUMBAI (CENTRAL)","Registration Manufacturer",71817
+2024,"MUMBAI (CENTRAL)","Registration Standard",71817
+2024,"MUMBAI (CENTRAL)","Revenue (Fee)",5934416
+2024,"MUMBAI (CENTRAL)","Revenue (Tax)",7407065
+2024,"MUMBAI (CENTRAL)",Transaction,312595
+2024,"MUMBAI (EAST)","Permit Category",20461
+2024,"MUMBAI (EAST)","Permit Purpose",20459
+2024,"MUMBAI (EAST)","Permit Type",20460
+2024,"MUMBAI (EAST)","Registration Category",76800
+2024,"MUMBAI (EAST)","Registration Class",76800
+2024,"MUMBAI (EAST)","Registration Fuel",76800
+2024,"MUMBAI (EAST)","Registration Manufacturer",76800
+2024,"MUMBAI (EAST)","Registration Standard",76800
+2024,"MUMBAI (EAST)","Revenue (Fee)",22484325
+2024,"MUMBAI (EAST)","Revenue (Tax)",1204583
+2024,"MUMBAI (EAST)",Transaction,334944
+2024,"MUMBAI (WEST)","Permit Category",13987
+2024,"MUMBAI (WEST)","Permit Purpose",13984
+2024,"MUMBAI (WEST)","Permit Type",13987
+2024,"MUMBAI (WEST)","Registration Category",60569
+2024,"MUMBAI (WEST)","Registration Class",60569
+2024,"MUMBAI (WEST)","Registration Fuel",60569
+2024,"MUMBAI (WEST)","Registration Manufacturer",60569
+2024,"MUMBAI (WEST)","Registration Standard",21756
+2024,"MUMBAI (WEST)","Revenue (Fee)",4155922
+2024,"MUMBAI (WEST)","Revenue (Tax)",486363
+2024,"MUMBAI (WEST)",Transaction,266764
+2024,R.T.O.BORIVALI,"Permit Category",22161
+2024,R.T.O.BORIVALI,"Permit Purpose",22164
+2024,R.T.O.BORIVALI,"Permit Type",22160
+2024,R.T.O.BORIVALI,"Registration Category",71345
+2024,R.T.O.BORIVALI,"Registration Class",71345
+2024,R.T.O.BORIVALI,"Registration Fuel",71345
+2024,R.T.O.BORIVALI,"Registration Manufacturer",71345
+2024,R.T.O.BORIVALI,"Registration Standard",71345
+2024,R.T.O.BORIVALI,"Revenue (Fee)",14294073
+2024,R.T.O.BORIVALI,"Revenue (Tax)",410427
+2024,R.T.O.BORIVALI,Transaction,306033
