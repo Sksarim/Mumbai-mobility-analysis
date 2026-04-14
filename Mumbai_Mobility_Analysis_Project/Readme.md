@@ -1,3 +1,10 @@
+
+## 📊 Key Insights (TL;DR)
+- **Borivali dominates** vehicle registrations across all years
+- **EV adoption** grew from ~2% → ~5% (2021–2024)
+- **Honda leads** two-wheeler market across zones
+- **2023 Decline:** Saw unexpected -5.5% decline likely supply chain issues
+
 # 🚗 Mumbai Urban Mobility Analysis (2021–2025)
 
 > Analyzing vehicle registration trends, EV adoption, and 
@@ -237,10 +244,10 @@ source sql/02_analysis_queries.sql
 
 ## 👤 Author
 
-**Sarim Shaikh**
-Aspiring Data Analyst | Mumbai, Maharashtra
+**Sarim Shaikh** *Aspiring Data Analyst*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sarim-shaikh-6312a7336)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarim-shaikh-6312a7336)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sksarim)
 
 ---
 
